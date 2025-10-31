@@ -1,0 +1,10 @@
+# Core dependencies for Depth-Aware Parallax (3D Photo) app
+gradio>=4.38
+torch>=2.0
+torchvision>=0.15
+transformers>=4.40
+opencv-python>=4.8
+pillow>=10.0
+imageio>=2.34
+numpy>=1.26
+matplotlib>=3.8
